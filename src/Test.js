@@ -1,6 +1,6 @@
 function Test () {
 return (
-    <div>
+    <div className="App">
         Test Component
     </div>
 )
